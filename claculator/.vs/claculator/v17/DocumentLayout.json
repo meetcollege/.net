@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{5EBBE070-16D8-4FCD-AFE2-BD4535869309}|claculator\\claculator.csproj|solutionrelative:claculator\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EBBE070-16D8-4FCD-AFE2-BD4535869309}|claculator\\claculator.csproj|d:\\m\\.net\\claculator\\claculator\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{5EBBE070-16D8-4FCD-AFE2-BD4535869309}|claculator\\claculator.csproj|D:\\m\\.net\\claculator\\claculator\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{5EBBE070-16D8-4FCD-AFE2-BD4535869309}|claculator\\claculator.csproj|solutionrelative:claculator\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "claculator\\WebForm1.aspx.cs",
               "ToolTip": "D:\\m\\.net\\claculator\\claculator\\WebForm1.aspx.cs",
               "RelativeToolTip": "claculator\\WebForm1.aspx.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAAAEYAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAUwEYAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-19T03:55:59.444Z",
               "EditorCaption": ""
@@ -43,8 +43,7 @@
               "RelativeToolTip": "claculator\\WebForm1.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-07-19T03:46:17.827Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-19T03:46:17.827Z"
             }
           ]
         }
